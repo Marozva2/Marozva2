@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there Marozva's 👋
+
+Hello! I'm Marozva, an aspiring software developer with a focus on Python and JavaScript. Currently majoring in software development, I am passionate about crafting efficient and creative solutions to real-world problems.
+
 
 <!--
 **Marozva2/Marozva2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
