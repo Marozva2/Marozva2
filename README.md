@@ -1,4 +1,4 @@
-Hi there Marozva's 👋
+Hi there! 👋
 
 Hello! I'm Marozva, an aspiring software developer with a focus on Python and JavaScript. Currently majoring in software development, I am passionate about crafting efficient and creative solutions to real-world problems.
 
