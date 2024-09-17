@@ -14,7 +14,7 @@ Hello! I'm Marozva, an aspiring software developer with a focus on Python and Ja
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Marozva2&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
-
+<br/>
 
 <!--Languages & Tools --> 
 <h4 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style=" width:30px; height:30px;" /> Languages and Tools <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style=" width:30px; height:30px;" /> </h4>
